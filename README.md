@@ -1,4 +1,4 @@
-# simditor-date-button
+# :date: simditor-date-button
 
 Add a date button for Simditor. Use the date button to add the current date in the editor.
 <p align="center">
