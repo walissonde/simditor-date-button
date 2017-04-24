@@ -1,10 +1,12 @@
 # simditor-date-button
 
+Add a date button for Simditor. Use the date button to add the current date in the editor.
 <p align="center">
   <img src="https://raw.githubusercontent.com/projecao/simditor-date-button/master/simditor-date-button.gif" alt="simditor-date-button.gif">
 </p>
+## Install with NPM
 
-Add a date button for Simditor. Use the date button to add the current date in the editor.
+`npm install simditor-date-button --save`
 
 ## Usage 
 
