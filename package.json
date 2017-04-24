@@ -1,6 +1,6 @@
 {
   "name": "simditor-date-button",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Date Button",
   "main": "lib/simditor-date-button.js",
   "scripts": {
