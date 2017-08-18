@@ -32,7 +32,7 @@ class DateButton extends Simditor.Button
   _getDate: ->
     now = new Date()
     day = now.getDate()
-    month = now.getMonth()
+    month = now.getMonth() + 1
     year = now.getFullYear()
 
     parse = (n) -> if n > 9 then n else "0#{n}"
